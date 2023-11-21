@@ -1,0 +1,14 @@
+1 - b 
+2 - c 
+3 - c 
+4 - c 
+5 - c 
+6 - b 
+7 - b 
+methodes pour masquer un element en css
+p{
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+}
+8 - response design
